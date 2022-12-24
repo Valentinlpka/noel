@@ -64,9 +64,9 @@ p {
   background-color: #ff5c5c;
 }
 
-body{
+/* body {
     width: 980px;
     height: 980px;
-}
+} */
 
-html, body {margin: 0; height: 100%; overflow: hidden}
+html, body {margin: 0; height: 100%;}
